@@ -21,7 +21,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="node" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
+<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
